@@ -1,0 +1,61 @@
+.fam-list{
+    list-style: none;
+    padding: 2px;
+    margin-right:800px;
+    background-color: blueviolet;
+    border-radius: 18px; 
+}
+.fam
+{
+    margin-right: 500px;
+}
+.fam-num1{
+    display: inline-block;
+    font-size: 20px;
+    background: blueviolet;
+    padding: 0px;
+    margin-left: 5px;
+    text-align: center;
+    border: 1px;
+    border-radius: 18px;
+    
+}
+.fam-num2{
+    display: inline-block;
+    font-size: 20px;
+    background: blueviolet;
+    padding: 1px;
+    margin-left: 50px;
+    text-align: center;
+    border-radius: 1px; 
+    
+}
+.fam-num3{
+    display: inline-block;
+    font-size: 20px;
+    background: blueviolet;
+    padding: 1px;
+    margin-left: 50px;
+    text-align: center;
+    border-radius: 1px; 
+}
+.fam-num4{
+    display: inline-block;
+    font-size: 20px;
+    background: blueviolet;
+    padding: 1px;
+    margin-left:50px; 
+    text-align: center;
+    border-radius: 8px; 
+}   
+a:link {
+    text-decoration: none;
+  }
+ 
+.head{
+margin:0px;
+color: chocolate;
+text-align: center;
+font-size: 20px;
+font-weight: bold;
+}

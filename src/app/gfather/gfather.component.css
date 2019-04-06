@@ -1,0 +1,12 @@
+.gfather{
+    max-height: 350px;
+    border: 1px solid green;
+    border-radius: 5px;
+    border-width: 3px;
+    font-size: 20px;   
+    background:coral;
+    margin-top: 0px;
+}
+.det{
+    margin: 10px 500px 300px 600px;
+}
